@@ -1,14 +1,466 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Corretor": {
+    "Nome": "Marcelo Oliveira",
+    "Creci": "0000001",
+    "Email": "oliveira.marcelo@sellerassociados.com.br",
+    "Telefone": "+55 (11) 9 0000-0000",
+    "Facebook": "fb.me/marcelooliveiraairbnb",
+    "Instagran": "facebook.com/marcelooliveiraairbnb",
+    "Linkedin": "https://www.linkedin.com/in/marcelo-de-oliveira-2486b119a/",
+    "Twitter": "Marcelo 41282262",
+    "Foto": "http://sellerassociados.com.br/oliveiramarcelo/imagem"
+  },
+  "Imoveis": [
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Breve",
+      "ImovelId": 2318,
+      "IdSuaHouse": 36868,
+      "Nome": "Vivaz Estação Vila Prudente",
+      "PrecoMinimo": 169000.0,
+      "Quartos": "1 ou 2 quartos",
+      "UrlAmigavel": "vivaz-estacao-vila-prudente-apartamento-vila-prudente-zona-leste-sao-paulo-sp",
+      "UrlDireta": "vivazestacaovilaprudente; vilaprudente; estacaovilaprudente",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Vila Prudente",
+        "Cep": "03133-000",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "389",
+        "Rua": "Rua Ibitirama"
+      },
+      "Galeria": [
+        {
+          "Id": 55055,
+          "Img": "https://img.cyrela.com.br/imoveis/2318/galeria/489x439-10-11-2020-20-43-17-728366-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 2302,
+      "IdSuaHouse": 34106,
+      "Nome": "Vivaz Cantareira",
+      "PrecoMinimo": 171000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-cantareira-apartamento-pirituba-zona-oeste-sao-paulo-sp",
+      "UrlDireta": "cantareira; vivazcantareira",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Pirituba",
+        "Cep": "02998-050",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "186",
+        "Rua": "Avenida Professor Miguel Franchini Neto"
+      },
+      "Galeria": [
+        {
+          "Id": 54453,
+          "Img": "https://img.cyrela.com.br/imoveis/2302/galeria/489x439-03-09-2020-14-38-32-625021-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 2321,
+      "IdSuaHouse": 37596,
+      "Nome": "Vivaz Estação Itaquera 2",
+      "PrecoMinimo": 179000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-estacao-itaquera-2-apartamento-itaquera-zona-leste-sao-paulo-sp",
+      "UrlDireta": "estacaoitaquera2",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Itaquera",
+        "Cep": "08285-010",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "511",
+        "Rua": "Rua Serrana"
+      },
+      "Galeria": [
+        {
+          "Id": 55040,
+          "Img": "https://img.cyrela.com.br/imoveis/2321/galeria/489x439-10-11-2020-20-15-15-217842-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 2288,
+      "IdSuaHouse": 32533,
+      "Nome": "Vivaz Vila Guilherme",
+      "PrecoMinimo": 184000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-vila-guilherme-apartamento-vila-guilherme-zona-norte-sao-paulo-sp",
+      "UrlDireta": "vivazvilaguilherme",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Vila Guilherme",
+        "Cep": "02065-000",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "570",
+        "Rua": "Av. Joaquina Ramalho"
+      },
+      "Galeria": [
+        {
+          "Id": 54161,
+          "Img": "https://img.cyrela.com.br/imoveis/2288/galeria/489x439-22-07-2020-16-51-59-697117-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Breve",
+      "ImovelId": 9991,
+      "IdSuaHouse": 36868,
+      "Nome": "Vivaz Estação Vila Prudente",
+      "PrecoMinimo": 169000.0,
+      "Quartos": "1 ou 2 quartos",
+      "UrlAmigavel": "vivaz-estacao-vila-prudente-apartamento-vila-prudente-zona-leste-sao-paulo-sp",
+      "UrlDireta": "vivazestacaovilaprudente; vilaprudente; estacaovilaprudente",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Vila Prudente",
+        "Cep": "03133-000",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "389",
+        "Rua": "Rua Ibitirama"
+      },
+      "Galeria": [
+        {
+          "Id": 55055,
+          "Img": "https://img.cyrela.com.br/imoveis/2318/galeria/489x439-10-11-2020-20-43-17-728366-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 9992,
+      "IdSuaHouse": 34106,
+      "Nome": "Vivaz Cantareira",
+      "PrecoMinimo": 171000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-cantareira-apartamento-pirituba-zona-oeste-sao-paulo-sp",
+      "UrlDireta": "cantareira; vivazcantareira",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Pirituba",
+        "Cep": "02998-050",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "186",
+        "Rua": "Avenida Professor Miguel Franchini Neto"
+      },
+      "Galeria": [
+        {
+          "Id": 54453,
+          "Img": "https://img.cyrela.com.br/imoveis/2302/galeria/489x439-03-09-2020-14-38-32-625021-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 9993,
+      "IdSuaHouse": 37596,
+      "Nome": "Vivaz Estação Itaquera 2",
+      "PrecoMinimo": 179000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-estacao-itaquera-2-apartamento-itaquera-zona-leste-sao-paulo-sp",
+      "UrlDireta": "estacaoitaquera2",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Itaquera",
+        "Cep": "08285-010",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "511",
+        "Rua": "Rua Serrana"
+      },
+      "Galeria": [
+        {
+          "Id": 55040,
+          "Img": "https://img.cyrela.com.br/imoveis/2321/galeria/489x439-10-11-2020-20-15-15-217842-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Em Obras",
+      "ImovelId": 9994,
+      "IdSuaHouse": 32533,
+      "Nome": "Vivaz Vila Guilherme",
+      "PrecoMinimo": 184000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-vila-guilherme-apartamento-vila-guilherme-zona-norte-sao-paulo-sp",
+      "UrlDireta": "vivazvilaguilherme",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Vila Guilherme",
+        "Cep": "02065-000",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "570",
+        "Rua": "Av. Joaquina Ramalho"
+      },
+      "Galeria": [
+        {
+          "Id": 54161,
+          "Img": "https://img.cyrela.com.br/imoveis/2288/galeria/489x439-22-07-2020-16-51-59-697117-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 9995,
+      "IdSuaHouse": 36868,
+      "Nome": "Vivaz Estação Vila Prudente",
+      "PrecoMinimo": 169000.0,
+      "Quartos": "1 ou 2 quartos",
+      "UrlAmigavel": "vivaz-estacao-vila-prudente-apartamento-vila-prudente-zona-leste-sao-paulo-sp",
+      "UrlDireta": "vivazestacaovilaprudente; vilaprudente; estacaovilaprudente",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Vila Prudente",
+        "Cep": "03133-000",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "389",
+        "Rua": "Rua Ibitirama"
+      },
+      "Galeria": [
+        {
+          "Id": 55055,
+          "Img": "https://img.cyrela.com.br/imoveis/2318/galeria/489x439-10-11-2020-20-43-17-728366-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 9996,
+      "IdSuaHouse": 34106,
+      "Nome": "Vivaz Cantareira",
+      "PrecoMinimo": 171000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-cantareira-apartamento-pirituba-zona-oeste-sao-paulo-sp",
+      "UrlDireta": "cantareira; vivazcantareira",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Pirituba",
+        "Cep": "02998-050",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "186",
+        "Rua": "Avenida Professor Miguel Franchini Neto"
+      },
+      "Galeria": [
+        {
+          "Id": 54453,
+          "Img": "https://img.cyrela.com.br/imoveis/2302/galeria/489x439-03-09-2020-14-38-32-625021-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 9997,
+      "IdSuaHouse": 37596,
+      "Nome": "Vivaz Estação Itaquera 2",
+      "PrecoMinimo": 179000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-estacao-itaquera-2-apartamento-itaquera-zona-leste-sao-paulo-sp",
+      "UrlDireta": "estacaoitaquera2",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Itaquera",
+        "Cep": "08285-010",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "511",
+        "Rua": "Rua Serrana"
+      },
+      "Galeria": [
+        {
+          "Id": 55040,
+          "Img": "https://img.cyrela.com.br/imoveis/2321/galeria/489x439-10-11-2020-20-15-15-217842-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    },
+    {
+      "AreaLazer": 0.0,
+      "AreaPrivativaM2": 0.0,
+      "Status": "Lançamento",
+      "ImovelId": 9998,
+      "IdSuaHouse": 32533,
+      "Nome": "Vivaz Vila Guilherme",
+      "PrecoMinimo": 184000.0,
+      "Quartos": "2 quartos",
+      "UrlAmigavel": "vivaz-vila-guilherme-apartamento-vila-guilherme-zona-norte-sao-paulo-sp",
+      "UrlDireta": "vivazvilaguilherme",
+      "OpcaoDeVaranda": true,
+      "VagasGaragem": 1.0,
+      "DescricaoVagasGaragem": "Opção de vaga",
+      "Endereco": {
+        "Bairro": "Vila Guilherme",
+        "Cep": "02065-000",
+        "Cidade": "São Paulo",
+        "Estado": "São Paulo",
+        "Numero": "570",
+        "Rua": "Av. Joaquina Ramalho"
+      },
+      "Galeria": [
+        {
+          "Id": 54161,
+          "Img": "https://img.cyrela.com.br/imoveis/2288/galeria/489x439-22-07-2020-16-51-59-697117-347x368.jpg",
+          "Legenda": "Fachada",
+          "Ordem": 0,
+          "TipoImagem": "Fachada"
+        }
+      ]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Depoimentos": [
+    {
+      "Nome": "Nome Lorem Ipsum",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 2",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 3",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 4",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 5",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 6",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 7",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 8",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 9",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 10",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 11",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 11",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    },
+    {
+      "Nome": "Nome Lorem Ipsum 12",
+      "Depoimento": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+      "Foto": "https://conteudo.imguol.com.br/blogs/174/files/2018/05/iStock-648229868-1024x909.jpg"
+    }
+  ]
 }
