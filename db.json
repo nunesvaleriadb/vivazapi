@@ -1,5 +1,5 @@
 {
-  "Corretor": {
+  "corretor": {
     "Nome": "Marcelo Oliveira",
     "Creci": "0000001",
     "Email": "oliveira.marcelo@sellerassociados.com.br",
@@ -10,7 +10,7 @@
     "Twitter": "Marcelo 41282262",
     "Foto": "http://sellerassociados.com.br/oliveiramarcelo/imagem"
   },
-  "Imoveis": [
+  "imoveis": [
     {
       "AreaLazer": 0.0,
       "AreaPrivativaM2": 0.0,
